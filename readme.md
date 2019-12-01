@@ -31,3 +31,8 @@
 > Multivariate Exploration:
 - For each of the top 10 genres, there does not seem to be a correlation between age rating and average user rating.
 - For all age ratings, the average user ratings for price categories are higher than 4.0, except high price category - age rating 12+. There does not seem to be a correlation between price category and average user rating for all age ratings.
+
+
+## Credits
+
+Kaggle (https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games)
